@@ -397,3 +397,12 @@ section h2,
 {
     background-color: #0f949b;
 }
+footer
+{
+    padding: 10px 0;
+
+    text-align: center;
+
+    color: #fff;
+    background-color: #0a173d;
+}
